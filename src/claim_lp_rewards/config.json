@@ -1,0 +1,19 @@
+{
+	"lcd_client": {
+		"localterra": true,
+		"url": "http://127.0.0.1:1317",
+		"chain_id": "columbus-5",
+		"aws_secrets": {
+			"region": "eu-west-1",
+			"secret_name": "seeds/testnet"
+		}
+	},
+	"claiming_rewards_delay": {
+		"days": 0,
+		"hours": 8,
+		"minutes": 0,
+		"seconds": 0
+	},
+	"nasset_token_rewards_addr": "terra1...",
+	"claim_rewards_for_addr": "terra1..."
+}
